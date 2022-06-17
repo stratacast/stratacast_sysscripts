@@ -1,0 +1,4 @@
+= Stratacast SysScripts
+
+Sometimes I come up with simple scripts I wish to share. Below I will have scripts that are
+OpenBSD-specific, FreeBSD-specific, Linux-specific, etc. as I add them
